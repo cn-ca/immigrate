@@ -18,5 +18,5 @@ description: 加拿大常用的官方链接
 
 #### 4.贴签进度查询
 
-[https://www.vfsglobal.ca/IRCC-GPTWave1/Track/Index](https://www.vfsglobal.ca/IRCC-GPTWave1/Track/Index)
+[https://visa.vfsglobal.com/chn/zh/can/track-application](https://visa.vfsglobal.com/chn/zh/can/track-application)
 
