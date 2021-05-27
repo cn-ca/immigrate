@@ -16,5 +16,7 @@ description: 加拿大常用的官方链接
 
 > [https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility/criteria-comprehensive-ranking-system/grid.html](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility/criteria-comprehensive-ranking-system/grid.html)
 
+#### 4.贴签进度查询
 
+[https://www.vfsglobal.ca/IRCC-GPTWave1/Track/Index](https://www.vfsglobal.ca/IRCC-GPTWave1/Track/Index)
 
